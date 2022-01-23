@@ -1,0 +1,106 @@
+.box{
+    height: 300px;
+    width: 400px;
+    background-color: #5D3A3A;
+    margin: auto; 
+  }
+  
+  .figure {
+    height: 200px;
+    width: 200px;
+    background-color: #B5E0BA;
+    padding-left: 0px;
+    padding-top: 0%;
+  }
+  
+  .box-2 {
+    height: 300px;
+    width: 400px;
+    margin: 10px auto;
+    background-color: #62374E;
+  }
+  
+  .item1, .item2, 
+  .item3, .item4 {
+    height: 50px;
+    width: 50px;
+    background-color: #FDC57B;
+  }
+  .item1{
+    position: relative;
+    left: 50px; 
+    top:50px;
+  }
+  .item2 {
+    position: relative;
+    left: 300px;
+  }
+  .item3{
+    position: relative;
+    left: 50px;
+    top: 100px;
+  }
+  .item4{
+    position: relative;
+    left: 300px;
+    top: 50px;
+  }
+  .box-3{
+    height: 300px ;
+    width: 400px;
+    background-color: #6592CF;
+    margin: auto;
+  }
+  .item-a{
+    height: 150px;
+    width: 300px;
+    background-color:  #243D83 ;
+    position: relative;
+    top:70px;
+    left: 50px;
+  }
+  .item-b{
+    background-color:  #6592CF;
+    height:250px;
+    width:250px; 
+    border-radius: 150px;
+    position: relative;
+    left: 75px;
+    bottom: 130px
+  }
+  .item-c{
+    background-color: #243D83;
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    position: relative;
+    bottom: 330px;
+    left:125px;
+  }
+  .item-d{
+    background-color:  #EEB850;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 430px;
+    left: 175px
+  }
+  .box-4{
+    height: 300px;
+    width: 400px;
+    background-color:#E3516E;
+    margin: 10px auto; 
+  }
+  .circle{
+    height: 200px;
+    width: 200px;
+    border-radius: 150px;
+    background:conic-gradient( #FADE8B 0deg,  #FADE8B 90deg,
+     #E3516E 90deg, #E3516E 180deg, 
+      #F7F3D7 180deg,  #F7F3D7 270deg,
+       #51B5A9 270deg);
+       position: relative;
+       left: 90px;
+       top: 50px;
+  }
